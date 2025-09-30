@@ -4,6 +4,8 @@ description: ''
 file: /courses/6-005-software-construction-spring-2016/66c639668774e0da3262968754a41f12_MIT6_005S16_Quiz2_soln.pdf
 file_size: 245176
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

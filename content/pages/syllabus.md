@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: 'This page contains information about the course assignments and grading. '
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -170,7 +168,7 @@ FAQ
 
 Practice and feedback are key to learning, and the course is structured to provide as many opportunities for practice and feedback as possible. That means we don’t want to spend class time on lectures, we want to spend it on exercises to practice the concepts and skills of building software.
 
-Citations: [Wieman et al., _Course Transformation Guide_](http://www.cwsei.ubc.ca/resources/files/CourseTransformationGuide_CWSEI_CU-SEI.pdf) · [Deslauriers et al., _Improved Learning in a Large-Enrollment Physics Class_](http://www.sciencemag.org/content/332/6031/862.full)
+Citations: {{% resource_link "c60044d3-a54e-47f7-94fb-77651528d571" "Wieman et al., _Course Transformation Guide_" %}} · {{% resource_link "967c2a31-f93c-4fac-bcc5-811519a4c60c" "Deslauriers et al., _Improved Learning in a Large-Enrollment Physics Class_" %}}
 
 ### Why is attendance in class required?
 
@@ -187,7 +185,7 @@ Your laptop is a necessary tool for in-class programming, but it also presents a
 
 If you want to use a smartphone in your lap, so that the screen is not visible and not distracting to others, we have no objection, but you’ll still be hurting yourself.
 
-Citations: [Sana et al., _Laptop multitasking hinders classroom learning for both users and nearby peers_](https://www.researchgate.net/publication/257171492_Laptop_multitasking_hinders_classroom_learning_for_both_users_and_nearby_peers) · [Mueller and Oppenheimer, _The Pen Is Mightier Than the Keyboard_](http://pss.sagepub.com/content/25/6/1159.full)
+Citations: {{% resource_link "2491ce12-992c-4758-be04-c202a253892c" "Sana et al., _Laptop multitasking hinders classroom learning for both users and nearby peers_" %}} · {{% resource_link "3da748a5-5f2e-4bdd-ac1d-60355d044086" "Mueller and Oppenheimer, _The Pen Is Mightier Than the Keyboard_" %}}
 
 ### How is participation in class graded?
 
@@ -199,10 +197,10 @@ Programming exercises are graded based on whether you’ve attempted the exercis
 
 Reading the material before class prepares you to spend class time practicing the concepts and skills you’re learning. Reading in advance gives you time to think and ask questions, and repeated exposure to material spaced out over time improves learning.
 
-See: [Spacing effect](https://en.wikipedia.org/wiki/Spacing_effect)
+See: {{% resource_link "55f2270d-5464-48b1-bce7-b739557c3323" "Spacing effect" %}}
 
 ### Why does the class have nanoquizzes on topics before we practice them in class?
 
 Nanoquizzes assess whether you did the reading and practiced with the reading exercises before coming to class, and they provide feedback to you on your comprehension. Nanoquizzes are themselves part of the practice we do in class: recalling information from the readings benefits learning more than just re-reading or re-hearing it.
 
-See: [Testing effect](https://en.wikipedia.org/wiki/Testing_effect)
+See: {{% resource_link "65703669-e5c2-4805-9825-83556d71ddc2" "Testing effect" %}}

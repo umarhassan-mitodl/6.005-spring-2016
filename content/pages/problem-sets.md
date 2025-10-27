@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This page contains assignments for 6.005 Spring 2016.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

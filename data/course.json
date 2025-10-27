@@ -34,7 +34,6 @@
     "website": "6-005-software-construction-spring-2016"
   },
   "course_title": "Software Construction",
-  "hide_download": true,
   "course_description": "_6.005 Software Construction_ introduces fundamental principles and techniques of software development, i.e., how to write software that is safe from bugs, easy to understand, and ready for change. The course includes problem sets and a final project. Important topics include specifications and invariants; testing; abstract data types; design patterns for object-oriented programming; concurrent programming and concurrency; and functional programming.\n\nThe [6.005 website homepage](/ans7870/6/6.005/s16/) from Spring 2016, along with all course materials, is available to OpenCourseWare users.\n",
   "department_numbers": [
     "6"
@@ -45,7 +44,6 @@
     "content": "577309fa-a500-4f45-6049-a94e4f1fed34",
     "website": "6-005-software-construction-spring-2016"
   },
-  "hide_download_original": null,
   "learning_resource_types": [
     "Problem Sets",
     "Exams with Solutions",

@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This page contains a listing of the course readings.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -10,7 +8,7 @@ title: Readings
 uid: 167cdf11-4893-3281-e566-858683b999a4
 ---
 
-Example code for some readings can be found on the [6.005 Github page](https://github.com/mit6005/).
+Example code for some readings can be found on the {{% resource_link "12804cf7-a298-4364-9418-5e65e3b4e8d0" "6.005 Github page" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
